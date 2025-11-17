@@ -1,8 +1,3 @@
-<!-- Banner / Header -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1557682250-01c1a5f5e94f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzR8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZXIlMjBiYW5uZXJ8ZW58MHx8fHwxNjk2NzQ4NTA5&ixlib=rb-4.0.3&q=80&w=1080" alt="banner" width="100%" />
-</p>
-
 <h1>💫 About Me</h1>
 
 <h3>👋 I'm Shahbaz Ahmed</h3>
@@ -87,34 +82,27 @@
 
 <h1>📊 GitHub Stats:</h1>
 
+<!-- Trophies -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=SHAHBAZ-SHEIKH" alt="trophy" />
   </a>
 </p>
 
+<!-- Stats & Languages -->
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SHAHBAZ-SHEIKH&show_icons=true&locale=en&theme=radical" alt="stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SHAHBAZ-SHEIKH&show_icons=true&locale=en&theme=default" alt="stats" />
   &nbsp;&nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHBAZ-SHEIKH&layout=compact&theme=radical" alt="langs" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHBAZ-SHEIKH&layout=compact&theme=default" alt="langs" />
 </p>
 
+<!-- Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAHBAZ-SHEIKH&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAHBAZ-SHEIKH" alt="streak" />
 </p>
 <br> <br>
 
 <h1>✍️ Random Dev Quote</h1>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
-</p>
-
-<h1>👀 Visitor Count</h1>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/SHAHBAZ-SHEIKH/count.svg" alt="visitor count" />
-</p>
-
-<h1>🎉 Fun Coding GIF</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Coding GIF" width="300"/>
 </p>
