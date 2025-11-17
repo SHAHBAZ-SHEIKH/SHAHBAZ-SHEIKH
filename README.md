@@ -1,7 +1,7 @@
 <h1>💫 About Me</h1>
 
 <h3>👋 I'm Shahbaz Ahmed</h3>
-👨‍💻 A dedicated <strong>Software Engineer</strong> and passionate <strong>Frontend Developer</strong>.<br />
+👨‍💻 A dedicated <strong>Software Engineer</strong> and passionate <strong>Mern Stack Developer</strong>.<br />
 📘 Currently learning <strong>Agentic AI</strong> and <strong>DevOps</strong> to level up backend & deployment skills.<br />
 📬 Get in touch: <a href="mailto:ashabaz845@gmail.com">ashabaz845@gmail.com</a>
 <br> <br>
